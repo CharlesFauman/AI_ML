@@ -1,3 +1,5 @@
+# download python 3.6
+
 
 # packages to install:
 # note: we install keras 2.1 because 2.1.5 and above have an error using softmax
@@ -5,6 +7,7 @@
 
 python -m pip install --upgrade pip
 pip install tensorflow==1.7 keras==2.1 jupyter numpy scipy scikit-learn gym matplotlib h5py
+
 
 
 # how to run:
